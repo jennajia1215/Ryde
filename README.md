@@ -32,14 +32,14 @@
 
 ---
 
-🎥 Tutorial Credit
+## 🎥 Tutorial Credit
 This project was built by following the tutorial:
 📺 Build a Full Stack React Native App with Payments | PostgreSQL, TypeScript, Stripe, Tailwind
 by JavaScript Mastery on YouTube.
 
 ---
 
-👨‍💻 Author
+## 👨‍💻 Author
 Built with ❤️ by Jenna Jia
 
 ---
