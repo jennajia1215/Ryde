@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="09392eed-384d-491a-bb74-c7d71ed84523" name="Changes" comment="modified" />
+    <list default="true" id="09392eed-384d-491a-bb74-c7d71ed84523" name="Changes" comment="modified">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +15,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "jennajia1215"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/jennajia1215/Ryde_App.git",
+    "accountId": "0cf00ed1-da1d-4c95-ad6c-f334f04f12e3"
+  }
+}]]></component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -86,7 +100,7 @@
       <workItem from="1745623018853" duration="6696000" />
       <workItem from="1745629851878" duration="46000" />
       <workItem from="1745791014252" duration="704000" />
-      <workItem from="1746492970227" duration="225000" />
+      <workItem from="1746492970227" duration="1145000" />
     </task>
     <task id="LOCAL-00001" summary="modified">
       <option name="closed" value="true" />
@@ -104,7 +118,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746493067483</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="modified">
+      <option name="closed" value="true" />
+      <created>1746493203503</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1746493203503</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
